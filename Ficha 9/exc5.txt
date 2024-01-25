@@ -1,0 +1,7 @@
+1. Tem de se usar chavetas {} e de se acabar com ponto e virgula (;)
+2. Não se pode escrever o último double
+3. Falta ponto e vírgula (;) depois do y e depois da ultima chaveta 
+4. Falta ponto e vírgula (;) depois da última chaveta
+
+exc 1 e 2: struct ponto {double x, y};
+exc 3 e 4: struct ponto {double x; double y;};

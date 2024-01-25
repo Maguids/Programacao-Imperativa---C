@@ -1,0 +1,5 @@
+Número de linhas: 4
+linha 1
+linha 2
+linha 3
+linha 4

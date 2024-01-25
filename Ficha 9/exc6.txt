@@ -1,0 +1,5 @@
+1. falta um ponto e vírgula (;) depois do y
+2. falta declarar que é uma estrutura
+3. falta declarar o novo nome da estrutura com o typedef 
+
+exc 1, 2 e 3: typedef struct {double x; double y;} Ponto;
