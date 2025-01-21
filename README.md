@@ -11,7 +11,7 @@ Each folder corresponds to a worksheet, in which the statements and my respectiv
 ## Programming Language:
 
 <div style = "display: inline_block"><br/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
 
